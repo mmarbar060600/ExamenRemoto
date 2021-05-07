@@ -1,1 +1,3 @@
 en el ejercicio 2 he realizado un bucle con for, en el cual introduces una orden y el numero de veces que la quieres realizar
+
+esto es una modificacion para el ejercicio 2
