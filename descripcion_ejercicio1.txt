@@ -1,2 +1,4 @@
 en este ejercicio he hecho un scrip con case el cual te permite monitorizar los usuarios del sistema, la actividad del sistema de ficheros
 , la memoria fisica y de intercambio y la informacion sobre los procesos lanzados por el sistema
+
+segunda modificacion del archivo
