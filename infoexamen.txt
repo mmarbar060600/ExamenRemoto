@@ -1,0 +1,32 @@
+* commit 7223424f04d6645a3578bb86ac07ca28137371e1 (HEAD -> master, mmarbar060600/master, Rama_ejercicio2)
+| Author: manuel <manumarti2000@gmail.com>
+| Date:   Fri May 7 09:24:05 2021 +0200
+| 
+|     modificacion del txt y se añaden las capturas del ejc2
+| 
+* commit 24f89fb4564613f03aa7a334f546e79c3242c0b8
+| Author: manuel <manumarti2000@gmail.com>
+| Date:   Fri May 7 09:20:09 2021 +0200
+| 
+|     primera modificacion del ejercicio 2
+| 
+* commit eedf180bd92d3a4270dd7a785d056fb89ab2f23d
+| Author: manuel <manumarti2000@gmail.com>
+| Date:   Fri May 7 09:16:35 2021 +0200
+| 
+|     se añadieron las capturas y la descripcion del ejc 1
+| 
+* commit 205d9e2778aa1a5e53375518faebb873d06c91c4
+  Author: manuel <manumarti2000@gmail.com>
+  Date:   Fri May 7 09:09:16 2021 +0200
+  
+      modificacion nº1 de la descripcion 1
+7223424 HEAD@{0}: merge Rama_ejercicio2: Fast-forward
+eedf180 HEAD@{1}: checkout: moving from Rama_ejercicio2 to master
+7223424 HEAD@{2}: commit: modificacion del txt y se añaden las capturas del ejc2
+24f89fb HEAD@{3}: checkout: moving from master to Rama_ejercicio2
+eedf180 HEAD@{4}: checkout: moving from Rama_ejercicio2 to master
+24f89fb HEAD@{5}: commit: primera modificacion del ejercicio 2
+eedf180 HEAD@{6}: checkout: moving from master to Rama_ejercicio2
+eedf180 HEAD@{7}: commit: se añadieron las capturas y la descripcion del ejc 1
+205d9e2 HEAD@{8}: commit (initial): modificacion nº1 de la descripcion 1
